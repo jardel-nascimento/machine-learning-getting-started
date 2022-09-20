@@ -1,1 +1,1 @@
-# machine-learning-getting-started
+# machine learning getting started
